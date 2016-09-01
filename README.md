@@ -6,7 +6,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
 
-Extends PHPUnit and combines the assertEquals and assertRegExp assertions into one assertEqualsRegExp method so that you can thoroughly test the HTML output of your code.
+Extends PHPUnit and combines the ``assertEquals`` and ``assertRegExp`` assertions into one ``assertEqualsRegExp`` method that enables you to thoroughly test the HTML output of your code.
 
 ## Installation
 
@@ -27,7 +27,7 @@ class MyTest extends \BootPress\HTMLUnit\Component
 {
     public function testOutput()
     {
-        $content = <<<'EOT'
+        $html = <<<'EOT'
         
 	<!doctype html>
 <html lang="en-us">
@@ -49,7 +49,7 @@ EOT;
                 '<p>Content</p>',
             '</body>',
             '</html>',
-        ), $content);
+        ), $html);
     }
 }
 ```
