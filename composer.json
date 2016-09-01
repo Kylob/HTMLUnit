@@ -1,0 +1,23 @@
+{
+    "name": "bootpress/htmlunit",
+    "description": "Combines the PHPUnit assertEquals and assertRegExp into one assertEqualsRegExp method, and ignores any whitespace between array values. ie. You can now thoroughly test the HTML or XML output of your code.",
+    "keywords": ["bootpress", "phpunit", "assertions", "tests", "html", "xml"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kyle Gadd",
+            "email": "kyle.gadd@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "phpunit/phpunit": "^4.0"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^1.0",
+        "squizlabs/php_codesniffer": "^2.5"
+    },
+    "autoload": {
+        "psr-4": { "BootPress\\HTMLUnit\\": "src" }
+    }
+}
