@@ -6,7 +6,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
 
-Extends PHPUnit and combines the assertEquals and assertRegExp assertions into one assertEqualsRegExp method so that you can thoroughly test the HTML or XML output of your code.
+Extends PHPUnit and combines the assertEquals and assertRegExp assertions into one assertEqualsRegExp method so that you can thoroughly test the HTML output of your code.
 
 ## Installation
 
@@ -54,7 +54,7 @@ EOT;
 }
 ```
 
-Notice that all of the whitespace surrounding the array values are ignored.  Regular expressions are enclosed Twig style ``{{ ... }}` with two curly braces and a space on both ends.  Internally the regex is wrapped like so: ``/^...$/``.
+Notice that all of the whitespace surrounding the array values are ignored.  Regular expressions are enclosed Twig style ``{{ ... }}`` with two curly braces and a space on both ends.  Internally the regex is wrapped like so: ``/^...$/``.
 
 ## License
 
