@@ -1,4 +1,4 @@
-# BootPress HTMLUnit Component
+# use BootPress\HTMLUnit\Component;
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square)](https://packagist.org/packages/bootpress/htmlunit)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
