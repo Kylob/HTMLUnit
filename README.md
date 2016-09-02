@@ -64,7 +64,7 @@ Notice that all of the whitespace surrounding the array values are ignored.  Reg
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[badge-version]: https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square
+[badge-version]: https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square&label=Packagist
 [badge-license]: https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square
 [badge-hhvm]: https://img.shields.io/badge/HHVM-Tested-8892bf.svg?style=flat-square
 [badge-php]: https://img.shields.io/badge/PHP%207-Supported-8892bf.svg?style=flat-square
