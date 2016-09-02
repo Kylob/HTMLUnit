@@ -7,7 +7,6 @@
 [![Build Status](https://img.shields.io/travis/Kylob/HTMLUnit/master.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
 [![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
-[![Downloads](https://img.shields.io/packagist/dt/bootpress/htmlunit.svg?style=flat-square&maxAge=3600)](https://packagist.org/packages/bootpress/htmlunit)
 
 Extends PHPUnit and combines the ``assertEquals`` and ``assertRegExp`` assertions into one ``assertEqualsRegExp`` method that enables you to thoroughly test the HTML output of your code.
 
