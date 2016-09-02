@@ -1,13 +1,15 @@
 # use BootPress\HTMLUnit\Component;
 
-[![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square)](https://packagist.org/packages/bootpress/htmlunit)
-[![Downloads](https://img.shields.io/packagist/dt/bootpress/htmlunit.svg?style=flat-square&maxAge=3600)](https://packagist.org/packages/bootpress/htmlunit)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![HHVM Tested](http://hhvm.h4cc.de/badge/bootpress/htmlunit.svg?style=flat-square)](http://hhvm.h4cc.de/package/bootpress/htmlunit)
-[![PHP 7 Supported](http://php7ready.timesplinter.ch/Kylob/HTMLUnit/master/badge.svg)](https://travis-ci.org/Kylob/HTMLUnit)
-[![Build Status](https://img.shields.io/travis/Kylob/HTMLUnit/master.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
-[![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit)
-[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
+[![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat)](https://packagist.org/packages/bootpress/htmlunit)
+[![Downloads](https://img.shields.io/packagist/dt/bootpress/htmlunit.svg?style=flat&maxAge=3600)](https://packagist.org/packages/bootpress/htmlunit)
+[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](LICENSE.md)
+[![HHVM Tested](https://img.shields.io/badge/HHVM-Tested-blue.svg?style=flat)](https://travis-ci.org/Kylob/HTMLUnit)
+[![PHP 7 Supported](https://img.shields.io/badge/PHP%207-Supported-blue.svg?style=flat)](https://travis-ci.org/Kylob/HTMLUnit)
+[![Build Status](https://img.shields.io/travis/Kylob/HTMLUnit/master.svg?style=flat)](https://travis-ci.org/Kylob/HTMLUnit)
+[![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat)](https://codeclimate.com/github/Kylob/HTMLUnit)
+[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
+
+https://img.shields.io/badge/HHVM-Tested-blue.svg?style=flat-square
 
 Extends PHPUnit and combines the ``assertEquals`` and ``assertRegExp`` assertions into one ``assertEqualsRegExp`` method that enables you to thoroughly test the HTML output of your code.
 
