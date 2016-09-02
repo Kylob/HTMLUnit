@@ -1,4 +1,4 @@
-# use BootPress\HTMLUnit\Component;
+# use BootPress\HTMLUnit\Component as HTMLUnit;
 
 [![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square&label=Packagist)](https://packagist.org/packages/bootpress/htmlunit)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE.md)
