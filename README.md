@@ -2,8 +2,8 @@
 
 [![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square)](https://packagist.org/packages/bootpress/htmlunit)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE.md)
-[![HHVM Tested](https://img.shields.io/badge/HHVM-Tested-blue.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
-[![PHP 7 Supported](https://img.shields.io/badge/PHP%207-Supported-blue.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
+[![HHVM Tested](https://img.shields.io/badge/HHVM-Tested-8892bf.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
+[![PHP 7 Supported](https://img.shields.io/badge/PHP%207-Supported-8892bf.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
 [![Build Status](https://img.shields.io/travis/Kylob/HTMLUnit/master.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
 [![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
