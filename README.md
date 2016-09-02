@@ -1,6 +1,6 @@
 # use BootPress\HTMLUnit\Component;
 
-[![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square)](https://packagist.org/packages/bootpress/htmlunit)
+[![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square&label=Packagist)](https://packagist.org/packages/bootpress/htmlunit)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE.md)
 [![HHVM Tested](https://img.shields.io/badge/HHVM-Tested-8892bf.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
 [![PHP 7 Supported](https://img.shields.io/badge/PHP%207-Supported-8892bf.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
