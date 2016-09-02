@@ -1,12 +1,12 @@
 # use BootPress\HTMLUnit\Component as HTMLUnit;
 
-[![Packagist](https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square&label=Packagist)](https://packagist.org/packages/bootpress/htmlunit)
-[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE.md)
-[![HHVM Tested](https://img.shields.io/badge/HHVM-Tested-8892bf.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
-[![PHP 7 Supported](https://img.shields.io/badge/PHP%207-Supported-8892bf.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
-[![Build Status](https://img.shields.io/travis/Kylob/HTMLUnit/master.svg?style=flat-square)](https://travis-ci.org/Kylob/HTMLUnit)
-[![Code Climate](https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit)
-[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square)](https://codeclimate.com/github/Kylob/HTMLUnit/coverage)
+[![Packagist][badge-version]][link-packagist]
+[![License MIT][badge-license]](LICENSE.md)
+[![HHVM Tested][badge-hhvm]][link-travis]
+[![PHP 7 Supported][badge-php]][link-travis]
+[![Build Status][badge-travis]][link-travis]
+[![Code Climate][badge-code-climate]][link-code-climate]
+[![Test Coverage][badge-coverage]][link-coverage]
 
 Extends PHPUnit and combines the ``assertEquals`` and ``assertRegExp`` assertions into one ``assertEqualsRegExp`` method that enables you to thoroughly test the HTML output of your code.
 
@@ -63,3 +63,16 @@ Notice that all of the whitespace surrounding the array values are ignored.  Reg
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[badge-version]: https://img.shields.io/packagist/v/bootpress/htmlunit.svg?style=flat-square
+[badge-license]: https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square
+[badge-hhvm]: https://img.shields.io/badge/HHVM-Tested-8892bf.svg?style=flat-square
+[badge-php]: https://img.shields.io/badge/PHP%207-Supported-8892bf.svg?style=flat-square
+[badge-travis]: https://img.shields.io/travis/Kylob/HTMLUnit/master.svg?style=flat-square
+[badge-code-climate]: https://img.shields.io/codeclimate/github/Kylob/HTMLUnit.svg?style=flat-square
+[badge-coverage]: https://img.shields.io/codeclimate/coverage/github/Kylob/HTMLUnit.svg?style=flat-square
+
+[link-packagist]: https://packagist.org/packages/bootpress/htmlunit
+[link-travis]: https://travis-ci.org/Kylob/HTMLUnit
+[link-code-climate]: https://codeclimate.com/github/Kylob/HTMLUnit
+[link-coverage]: https://codeclimate.com/github/Kylob/HTMLUnit/coverage
